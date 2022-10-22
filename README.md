@@ -3,6 +3,8 @@ In this project we use the data provided at https://data.gov.il/dataset/satisfac
 
 The data was cleaned, transformed and analyzed in our jupyter notebook and finally visualized using Tableau.
 
+Link to Medium story : https://medium.com/@Armonia1999/hospital-satisfaction-survey-data-analysis-project-a238c5a1dbe5
+
 Link to dashboard : https://public.tableau.com/app/profile/armonia8525/viz/HospitalSatisfactionSurvey/General
 
 some snippets : 
