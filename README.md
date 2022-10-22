@@ -1,6 +1,8 @@
 # Hospital_Satisfaction_Survey
 In this project we use the data provided at https://data.gov.il/dataset/satisfaction-hosp-general2016 which includes information about patients in Israel's hospitals 2016. It has some columns about the hospital itself, the patients and also the answers they provided for around 37 survey questions. 
+
 The data was cleaned, transformed and analyzed in our jupyter notebook and finally visualized using Tableau.
+
 Link to dashboard : https://public.tableau.com/app/profile/armonia8525/viz/HospitalSatisfactionSurvey/General
 
 some snippets : 
